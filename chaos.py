@@ -1,9 +1,14 @@
 import webbrowser
 import time
 import keyboard
+from pynput.mouse import Controller
+mouse = Controller()
 
 while True:
     webbrowser.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", new=1)
     if keyboard.is_pressed('r'):
         break
+    mouse.position = (0, 0)  # Move the mouse to (0,0) to disable clicks
+    time.sleep(0.)  # Add a small delay to avoid high CPU usage
+
 exit()
