@@ -6,8 +6,8 @@ You are welcome to download the files and run it on your unsuspecting friends.
 I take no responsibility for the consequences of this software.
 I will not be liable for any damages associated with this software including friendship damage.
 You will need to install the following softtware for this to work.
+To stop the rick press r or ALT+F4
 |Software   | Command             |
 |-----------|---------------------|
 |keyboard   |pip install keyboard |
-| ctypes    |pip install pycaw    |
 | pynput    |pip install pynput   |
