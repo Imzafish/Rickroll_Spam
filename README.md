@@ -13,7 +13,7 @@ I will not be liable for any damages associated hardware.
 
 ### Run at your own risk.
 
-To stop the rick press r or ALT+F4. Sometimes if you wait too long your computer seizes up try SHIFT+F5 or just F5. If that doesn't work try using your keyboard, press and hold the CTRL, Shift, and ESC keys simultaneously then navigate you code editor using arrow keys and force shut the program. If that doesn't work you are screwed... 
+To stop the rick press r or ALT+F4. MAKE SURE THAT YOU DO THIS VERY EARLY OTHERWISE YOUR COMPUTER WILL SEIZE UP AND HAVE IMMENSE ERRORS!!
 
 You will need to install the following softtware for this to work.
 
