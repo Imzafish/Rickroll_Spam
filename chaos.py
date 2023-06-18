@@ -6,10 +6,10 @@ from pycaw.pycaw import AudioUtilities
 
 # Get the default audio interface
 devices = AudioUtilities.GetSpeakers()
-interface = devices.Activate(ctypes.c_ulonglong(0), ctypes.IUnknown, None)
+interface = devices.Activate(ctypes.c_ulonglong(0), ctypes.c_void_p(None), None)
 
 # Get the volume control
-volume = interface.QueryInterface(ctypes.pointer(ctypes.c_float))
+volume = interface.QueryInterface(ctypes.POINTER(ctypes.c_float))
 
 def disable_alt_f4(e):
     if e.event_type == keyboard.KEY_DOWN:
