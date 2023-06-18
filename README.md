@@ -1,5 +1,5 @@
 # Rickroll_Spam
-Spams Rickrolls until your computer crashes. MUHAHAHHAA
+Spams Rickrolls until your computer crashes. Don't run this except on old computers that are going to go to waste anyway.
 
 Please give the creator; Imzafish
 
