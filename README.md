@@ -14,9 +14,7 @@ I will not be liable for any damages associated hardware.
 
 Your computer will potentially be unrecoverable
 
-## DON"T RUN THIS UNLESS YOU WANT TO RUIN YOUR COMPUTER
-
-### Run at your own risk
+## DON'T RUN THIS UNLESS YOU WANT TO RUIN YOUR COMPUTER. You run at your own risk.
 
 To stop the rick press r or ALT+F4. Make sure that you are using function keyboard instead of media! MAKE SURE THAT YOU DO THIS VERY EARLY OTHERWISE YOUR COMPUTER WILL SEIZE UP AND HAVE IMMENSE ERRORS!!
 
