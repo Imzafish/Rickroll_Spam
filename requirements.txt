@@ -1,2 +1,3 @@
 keyboard
 pynput
+py2exe
