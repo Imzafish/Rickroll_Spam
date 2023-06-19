@@ -1,3 +1,3 @@
 [autorun] 
-open=Filename.exe 
-icon=Filename.exe,1
+open=dist/chaos.exe 
+icon=dist/chaos.exe,1

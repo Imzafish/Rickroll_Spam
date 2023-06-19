@@ -6,8 +6,12 @@ import keyboard
 from pynput.mouse import Controller
 from shutil import rmtree
 
-rmtree('dist/')
-rmtree('build/')
+try: # remove the temporary folders from last build bcos i don't know what will happen if they stay
+    rmtree('dist/')
+    rmtree('build/')
+except:
+    pass
+
 try:
     setup(
         options = {'py2exe': {'bundle_files': 1, 'compressed': True}},
@@ -18,4 +22,6 @@ except SystemExit:
     input('Please try to run toexe.bat as administrator, not this as a normal python file!\nPress enter to exit')
 
 print('Now there should be a chaos.exe file in the dist folder! Check it out!')
-input('Press enter to exit')
+if input('Press enter to exit or 1 to remove all the temporary junk we don\'t need') == '1':
+    rmtree('dist/lib/')
+    rmtree('build')
