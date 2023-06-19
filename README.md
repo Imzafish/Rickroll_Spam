@@ -2,7 +2,7 @@
 
 Spams Rickrolls until your computer crashes. Don't run this except on old computers that are going to go to waste anyway.
 
-Please give the creator; Imzafish
+Please give the creators credit; Imzafish and Tsunami014
 
 You are not allowed to sell/redistrubute this software.
 
